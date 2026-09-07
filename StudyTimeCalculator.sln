@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyTimeCalculator", "StudyTimeCalculator\StudyTimeCalculator.csproj", "{B4699E84-05CF-417E-850C-8A4317B1B747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4699E84-05CF-417E-850C-8A4317B1B747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4699E84-05CF-417E-850C-8A4317B1B747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4699E84-05CF-417E-850C-8A4317B1B747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4699E84-05CF-417E-850C-8A4317B1B747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08929A17-4806-41CF-ACC3-28FA5083A862}
+	EndGlobalSection
+EndGlobal
